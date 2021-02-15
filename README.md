@@ -11,7 +11,7 @@ If you want to contact me, please send me an email.
 
 #### 🌱 Experience  
 - Android Application - HSTREE [**ver 8**](https://play.google.com/store/apps/details?id=com.kimbsu.hstree) ```2020-02 ~ 2020-06```
-- Andriod Application - KUN :  [**ver 1.1.0**](https://play.google.com/store/apps/details?id=com.kunotice.kunotice) ```2020-05 ~ ```
+- Andriod Application - KUN [**ver 1.1.0**](https://play.google.com/store/apps/details?id=com.kunotice.kunotice) ```2020-05 ~ ```
 - Android Application - Zepetalk : Map-based SNS using NAVER ZEPETO API ```Junction X Seoul 2020 Hackathon```  
  Naver Z Track 3rd Place! :clap:
 #### ⚡ Interest  
