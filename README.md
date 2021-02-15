@@ -15,8 +15,8 @@ If you want to contact me, please send me an email.
 - Android Application - Zepetalk : Map-based SNS using NAVER ZEPETO API ```Junction X Seoul 2020 Hackathon```  
  Naver Z Track 3rd Place! :clap:
 #### ⚡ Interest  
-- Android Development using Kotlin and Java
-- Solving Algorithm Problem (Algospot/Baekjoon/HackerRank/etc)
+- Android Development using Kotlin and Java 😄
+- Solving Algorithm Problem :bulb: (Algospot/Baekjoon/HackerRank/etc)
 - Korea Baseball :baseball: To V7 with Doosan Bears!
 - LOL :video_game:
 
