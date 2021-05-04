@@ -16,7 +16,7 @@ If you want to contact me, please send me an email.
  Naver Z Track 3rd Place! :clap:
 #### ⚡ Interest  
 - Android Development using Kotlin and Java 😄
-- Solving Algorithm Problem :bulb: (Algospot/Baekjoon/HackerRank/etc)
+- Solving Algorithm Problem :bulb: (Algospot/Baekjoon/Codeforces/HackerRank/etc)
 - Korea Baseball :baseball: To V7 with Doosan Bears!
 - LOL :video_game:
 
