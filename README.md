@@ -5,7 +5,7 @@ If you want to contact me, please send me an email.
 
 #### :bust_in_silhouette: Profile  
 - Konkuk University, Department of Software ```2018-03 ~```
-- Prefering Language: Kotlin/C++/Java
+- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimbsu00)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -16,22 +16,7 @@ If you want to contact me, please send me an email.
  Naver Z Track 3rd Place! :clap:
 - Android Application - Mobit [**ver 1.2.2**](https://play.google.com/store/apps/details?id=com.mobit.mobit) ```2021-05 ~```
 #### ⚡ Interest  
-- Android Development using Kotlin and Java 😄
-- Solving Algorithm Problem :bulb: (Algospot/Baekjoon/Codeforces/HackerRank/etc)
+- Android Development 😄
+- Solving Algorithm Problem :bulb: (Algospot/Baekjoon/Codeforces/Programmers/etc)
 - Korea Baseball :baseball: To V7 with Doosan Bears!
 - LOL :video_game:
-
-<!--
-**kimbsu00/kimbsu00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
