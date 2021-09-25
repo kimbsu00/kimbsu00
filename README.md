@@ -5,9 +5,8 @@ If you want to contact me, please send me an email.
 
 #### :bust_in_silhouette: Profile  
 - Konkuk University, Department of Software ```2018-03 ~```
-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimbsu00)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimbsu00&layout=compact&theme=default&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 🌱 Experience  
 - Android Application - HSTREE [**ver 8**](https://play.google.com/store/apps/details?id=com.kimbsu.hstree) ```2020-02 ~ 2020-06```
