@@ -25,5 +25,8 @@ Konkuk University, Department of Software ```2018-03 ~```
 - Android Application - Zepetalk : Map-based SNS using NAVER ZEPETO API ```Junction X Seoul 2020 Hackathon```  
  Naver Z Track 3rd Place!
 
+### Recent Posting
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimbsu00)](https://velog-readme-stats.vercel.app/api/redirect?name=kimbsu00)
+
 #
 ![trophy](https://github-profile-trophy.vercel.app/?username=kimbsu00)
