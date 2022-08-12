@@ -27,6 +27,3 @@ Konkuk University, Department of Software ```2018-03 ~```
 
 ### Recent Posting
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimbsu00)](https://velog-readme-stats.vercel.app/api/redirect?name=kimbsu00)
-
-#
-![trophy](https://github-profile-trophy.vercel.app/?username=kimbsu00)
