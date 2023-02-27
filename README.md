@@ -13,7 +13,7 @@ Konkuk University, Department of Software ```2018-03 ~```
 
 ### Experience
 ### 2022
-- [Diningcode](https://play.google.com/store/apps/details?id=com.diningcode) Android Developer ```2022-01-03~2023-02-28```
+- [Diningcode](https://play.google.com/store/apps/details?id=com.diningcode) Android Developer ```2022-01-03 ~ 2023-02-28```
 
 ### 2021
 - Bronze Prize in Open Source Software Dev Competition - [Graph Coloring Parallel Algorithm](https://github.com/kimbsu00/GraphColoring) ```2021-07 ~ 2021-11```
