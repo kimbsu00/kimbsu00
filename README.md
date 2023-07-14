@@ -12,6 +12,10 @@ Konkuk University, Department of Software ```2018-03 ~```
 <a href="https://velog.io/@kimbsu00" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-squre&logo=Velog&logoColor=FFFFFF"/></a>
 
 ### Experience
+### 2023
+- Android Application - [PAD-AI](https://github.com/NeoMemoris) : Inspection application for distinguishing PD, AD, and HC
+- Android Application - [Kubit](https://github.com/TeamKubit/Kubit-Android) : Improved from Mobit
+
 ### 2022
 - [Diningcode](https://play.google.com/store/apps/details?id=com.diningcode) Android Developer ```2022-01-03 ~ 2023-02-28```
 
