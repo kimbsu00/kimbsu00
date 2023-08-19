@@ -13,9 +13,9 @@ Konkuk University, Department of Software ```2018-03 ~```
 
 ### Experience
 ### 2023
-- 제 1회 건국대학교 해커톤 우수상 - [MZTI](https://github.com/TEAMMZC/MZTI) : 나와 다른 MBTI를 이해할 수 있도록 도와주는 프로젝트
-- Android Application - [PAD-AI](https://github.com/NeoMemoris) : 치매 및 파킨슨병 의심 여부 판단을 위한 연구
-- Android Application - [Kubit](https://github.com/TeamKubit/Kubit-Android) : Mobit를 개선한 가상화폐 모의투자 앱
+- 제 1회 건국대학교 해커톤 우수상 - [MZTI](https://github.com/TEAMMZC/MZTI) : 나와 다른 MBTI를 이해할 수 있도록 도와주는 프로젝트 ```2023-07-26 ~ 2023-08-17```
+- Android Application - [PAD-AI](https://github.com/NeoMemoris) : 치매 및 파킨슨병 의심 여부 판단을 위한 연구 ```2023-03-02 ~```
+- Android Application - [Kubit](https://github.com/TeamKubit/Kubit-Android) : Mobit를 개선한 가상화폐 모의투자 앱 ```2023-03-02 ~ 2023-06-06```
 
 ### 2022
 - [Diningcode](https://play.google.com/store/apps/details?id=com.diningcode) Android Developer ```2022-01-03 ~ 2023-02-28```
