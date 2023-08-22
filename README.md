@@ -10,6 +10,7 @@ Konkuk University, Department of Software ```2018-03 ~```
 
 ### TMI
 <a href="https://velog.io/@kimbsu00" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-squre&logo=Velog&logoColor=FFFFFF"/></a>
+<a href="https://diligent-tin-1ff.notion.site/Byeongsu-Kim-15bd673de026466894255668dfa85bbd" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-squre&logo=Notion&logoColor=FFFFFF"/></a>
 
 ### Experience
 ### 2023
