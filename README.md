@@ -31,5 +31,4 @@ Konkuk University, Department of Software ```2018-03 ~```
 - Junction X Seoul 2020 Naver Z Track 3등 - [Zepetalk](https://github.com/kimbsu00/JunctionXSeoul2020) : Naver Zepeto API를 활용한 지도 기반 SNS 앱 ```Junction X Seoul 2020 Hackathon```
 
 ### Recent Posting
-[Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/redirect?name=kimbsu00)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimbsu00)](https://velog-readme-stats.vercel.app/api/redirect?name=kimbsu00)
