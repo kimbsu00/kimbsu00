@@ -1,6 +1,6 @@
 ## Profile 
 ### Education
-Konkuk University, Department of Software ```2018-03 ~```
+Konkuk University, Department of Software ```2018-03 ~ 2024-08```
 
 ### Skills
 <a href="" target="_blank"><img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=FFFFFF"/></a>
