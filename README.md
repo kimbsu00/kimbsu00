@@ -29,6 +29,3 @@ Konkuk University, Department of Software ```2018-03 ~ 2024-08```
 - Android Application - HSTREE [**ver 8**](https://github.com/kimbsu00/HSTREE) ```2020-02 ~ 2020-06```
 - Andriod Application - KUN [**ver 1.1.0**](https://play.google.com/store/apps/details?id=com.kunotice.kunotice) ```2020-05 ~ ```
 - Junction X Seoul 2020 Naver Z Track 3등 - [Zepetalk](https://github.com/kimbsu00/JunctionXSeoul2020) : Naver Zepeto API를 활용한 지도 기반 SNS 앱 ```Junction X Seoul 2020 Hackathon```
-
-### Recent Posting
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimbsu00)](https://velog-readme-stats.vercel.app/api/redirect?name=kimbsu00)
