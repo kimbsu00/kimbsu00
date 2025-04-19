@@ -13,9 +13,12 @@ Konkuk University, Department of Software ```2018-03 ~ 2024-08```
 <a href="https://kimbsu00.oopy.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-squre&logo=Notion&logoColor=FFFFFF"/></a>
 
 ### Experience
+### 2024
+- Hyundai Autoever Navigation Developer ```2025-09-09 ~```
+
 ### 2023 
 - 제 1회 건국대학교 해커톤 우수상 - [MZTI](https://github.com/TEAMMZC/MZTI) : 나와 다른 MBTI를 이해할 수 있도록 도와주는 프로젝트 ```2023-07-26 ~ 2023-08-17```
-- 2023 KU SW경진대회 우수상 - [PAD-AI](https://github.com/NeoMemoris) : 파킨슨병 및 치매 조기 진단을 위한 AI 모델 개발 및 데이터 수집 ```2023-03-02 ~```
+- 2023 KU SW경진대회 우수상 - [PAD-AI](https://github.com/NeoMemoris) : 파킨슨병 및 치매 조기 진단을 위한 AI 모델 개발 및 데이터 수집 ```2023-03-02 ~ 2023-12-15```
 - Android Application - [Kubit](https://github.com/TeamKubit/Kubit-Android) : Mobit를 개선한 가상화폐 모의투자 앱 ```2023-03-02 ~ 2023-06-06```
 
 ### 2022
