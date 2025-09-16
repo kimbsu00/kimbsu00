@@ -14,7 +14,7 @@ Konkuk University, Department of Software ```2018-03 ~ 2024-08```
 
 ### Experience
 ### 2024
-- Hyundai Autoever Navigation Developer ```2025-09-09 ~```
+- Hyundai Autoever Navigation Developer ```2024-09-09 ~```
 
 ### 2023 
 - 제 1회 건국대학교 해커톤 우수상 - [MZTI](https://github.com/TEAMMZC/MZTI) : 나와 다른 MBTI를 이해할 수 있도록 도와주는 프로젝트 ```2023-07-26 ~ 2023-08-17```
