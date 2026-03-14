@@ -10,7 +10,10 @@ Konkuk University, Department of Software ```2018-03 ~ 2024-08```
 
 ### TMI
 <a href="https://velog.io/@kimbsu00" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-squre&logo=Velog&logoColor=FFFFFF"/></a>
-<a href="https://kimbsu00.oopy.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-squre&logo=Notion&logoColor=FFFFFF"/></a>
+<a href="https://kimbsu00.oopy.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-squre&logo=Notion&logoColor=FFFFFF"/></a>  
+
+### Post
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimbsu00)](https://github.com/eungyeole/velog-readme-stats)
 
 ### Experience
 ### 2024
