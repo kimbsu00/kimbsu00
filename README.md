@@ -16,8 +16,11 @@ Konkuk University, Department of Software ```2018-03 ~ 2024-08```
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimbsu00)](https://velog.io/@kimbsu00/Android-Address-Sanitizer)
 
 ### Experience
+### 2026
+- Hyundai Autoever Android Framework Developer ```2026-07 ~```
+
 ### 2024
-- Hyundai Autoever Navigation Developer ```2024-09-09 ~```
+- Hyundai Autoever Navigation Developer ```2024-09 ~ 2026-06```
 
 ### 2023 
 - 제 1회 건국대학교 해커톤 우수상 - [MZTI](https://github.com/TEAMMZC/MZTI) : 나와 다른 MBTI를 이해할 수 있도록 도와주는 프로젝트 ```2023-07-26 ~ 2023-08-17```
